@@ -36,7 +36,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "getsize/rule-name": 2
+        "getsize/no-full-fp-lib": 2
     }
 }
 ```
@@ -44,8 +44,3 @@ Then configure the rules you want to use under the rules section.
 ## Supported Rules
 
 * Fill in provided rules here
-
-
-
-
-
