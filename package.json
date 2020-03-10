@@ -10,7 +10,7 @@
   "author": "eslint-getsize-pro",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha tests --recursive"
+    "test": "mocha ./tests/**/*.js"
   },
   "dependencies": {
     "requireindex": "~1.1.0"
@@ -22,5 +22,5 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "license": "ISC"
+  "license": "MIT"
 }
