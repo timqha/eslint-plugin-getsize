@@ -36,7 +36,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "getsize/no-full-fp-lib": 2
+        "getsize/need-get-font-size-scale-factor": 2
     }
 }
 ```
@@ -44,3 +44,5 @@ Then configure the rules you want to use under the rules section.
 ## Supported Rules
 
 * Fill in provided rules here
+
+    - need-get-font-size-scale-factor - checks that all font sizes are with scale factor.
