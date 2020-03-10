@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-getsize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "simple plugin for react-native get size for different screen sizes.",
   "keywords": [
     "eslint",
